@@ -2,7 +2,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, TrainingArguments,
 from datasets import load_dataset
 
 # Step 1: Load the DeepSeek-R1 model and tokenizer
-model_name = "opensourcerelease/DeepSeek-R1-bf16"
+model_name = "DeepSeek-R1-bf16"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
