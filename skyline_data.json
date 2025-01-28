@@ -1,0 +1,128 @@
+{
+    "project_details": {
+      "name": "Skyline Heights",
+      "location": "Urbanville, Sector 21, Main Boulevard",
+      "developer": "UrbanVision Developers Pvt. Ltd.",
+      "type": "Residential",
+      "configuration": ["2 BHK", "3 BHK", "4 BHK"],
+      "total_area": "15 acres",
+      "total_towers": 10,
+      "total_floors_per_tower": 20,
+      "total_units": 500,
+      "possession_date": "December 2025",
+      "rera_id": "UVP2025/456"
+    },
+    "amenities": [
+      "Clubhouse",
+      "Swimming Pool",
+      "Gymnasium",
+      "Children’s Play Area",
+      "Jogging and Cycling Track",
+      "24/7 Security",
+      "Power Backup",
+      "Multipurpose Hall",
+      "Indoor Games Room",
+      "Landscaped Gardens",
+      "Convenience Store"
+    ],
+    "unit_details": [
+      {
+        "type": "2 BHK",
+        "carpet_area": "900 sq. ft.",
+        "price": "75,00,000 - 80,00,000",
+        "availability": "Available"
+      },
+      {
+        "type": "3 BHK",
+        "carpet_area": "1,200 sq. ft.",
+        "price": "1,10,00,000 - 1,20,00,000",
+        "availability": "Available"
+      },
+      {
+        "type": "4 BHK",
+        "carpet_area": "1,600 sq. ft.",
+        "price": "1,50,00,000 - 1,70,00,000",
+        "availability": "Limited"
+      }
+    ],
+    "location_highlights": {
+      "address": "Skyline Heights, Sector 21, Urbanville, Main Boulevard",
+      "proximity": {
+        "metro_station": "1.5 km",
+        "airport": "12 km",
+        "schools": "2 km",
+        "hospitals": "3 km",
+        "shopping_mall": "1 km",
+        "it_hub": "5 km"
+      },
+      "connectivity": [
+        "Urbanville Expressway",
+        "Metro Line 2"
+      ]
+    },
+    "payment_plan": {
+      "booking_amount": "10% of the total cost",
+      "under_construction": "30% of the total cost",
+      "on_completion": "60% of the total cost"
+    },
+    "floor_plans": {
+      "2_bhk": "Spacious living and dining area, two bedrooms, two bathrooms, balcony, and modular kitchen.",
+      "3_bhk": "Includes an additional bedroom and a larger living area compared to 2 BHK.",
+      "4_bhk": "Premium unit with an extra room for study or office, larger balcony, and enhanced living and kitchen space."
+    },
+    "faqs": {
+      "general_questions": [
+        {
+          "question": "What is the possession date for Skyline Heights?",
+          "answer": "The possession date is December 2025."
+        },
+        {
+          "question": "Is the project RERA registered?",
+          "answer": "Yes, the RERA ID is UVP2025/456."
+        },
+        {
+          "question": "What is the total area of the project?",
+          "answer": "The total area is 15 acres."
+        },
+        {
+          "question": "How many towers are there in Skyline Heights?",
+          "answer": "There are 10 towers in the project."
+        }
+      ],
+      "pricing_and_payment": [
+        {
+          "question": "What is the starting price for 2 BHK apartments?",
+          "answer": "The starting price for 2 BHK apartments is INR 75,00,000."
+        },
+        {
+          "question": "What is the booking amount?",
+          "answer": "The booking amount is 10% of the total cost."
+        },
+        {
+          "question": "Are there any financing options available?",
+          "answer": "Yes, financing is available through leading banks and financial institutions."
+        }
+      ],
+      "amenities_and_features": [
+        {
+          "question": "Does the project have 24/7 security?",
+          "answer": "Yes, the project includes 24/7 security and CCTV surveillance."
+        },
+        {
+          "question": "What recreational amenities are available?",
+          "answer": "The project includes a clubhouse, swimming pool, gym, landscaped gardens, and indoor games room."
+        }
+      ],
+      "location_and_connectivity": [
+        {
+          "question": "How far is the metro station?",
+          "answer": "The metro station is 1.5 km away from Skyline Heights."
+        },
+        {
+          "question": "Is the project well-connected to major roads?",
+          "answer": "Yes, it is connected via Urbanville Expressway and Metro Line 2."
+        }
+      ]
+    }
+  }
+  
